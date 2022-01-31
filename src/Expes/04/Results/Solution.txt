@@ -1,0 +1,29 @@
+
+ --> Nombre total d'unités couvertes par la base: 1
+
+ --> Nombre total d'unités couvertes par les HAPS/nombre d'unité non couvertes par les bases: 2/9 (22.22%)
+
+ --> Nombre total d'unités couvertes/ nombre total d'unité: 3/10 (30.0%)
+
+ - HAPS 1 déployé à la position (400.0, 500.0)
+
+     - Relais 3 (type 1) placé dans ce HAPS
+
+ - HAPS 2 déployé à la position (600.0, 500.0)
+
+     - Relais 6 (type 1) placé dans ce HAPS
+
+ - HAPS 3 déployé à la position (400.0, 400.0)
+
+     - Relais 5 (type 1) placé dans ce HAPS
+
+========== Affichage des résultats ==========
+
+ - flow f 12 arc (1, 15), (10000, 1), pos (Point(482.0, 658.0), Point(400.0, 500.0)) : 1
+
+ - flow f 15 arc (1, 15), (10000, 1), pos (Point(482.0, 658.0), Point(400.0, 500.0)) : 1
+
+ - flow f 16 arc (1, 16), (10000, 2), pos (Point(482.0, 658.0), Point(600.0, 500.0)) : 1
+
+ - flow f 12 arc (15, 12), (1, 3), pos (Point(400.0, 500.0), Point(400.0, 400.0)) : 1
+(1, 3, 1)
