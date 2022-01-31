@@ -1,0 +1,35 @@
+\\bibliothèques d'instances: list of bibs to test
+0, petite_instance
+
+\\Ajout de la composante connexité (yes/no)
+yes
+
+\\ajout des inégalités de dominance (yes/no)
+yes
+
+\\ajout des inégalités de couverture-connexité (yes/no)
+no 
+
+\\ajout d'un callback vide (yes/no)
+yes
+
+\\ajout des inégalités de couverture (yes/no)
+yes
+
+\\séparation uniquement à la racine (yes/no)
+yes
+
+\\fréquence de séparation (int)
+1000
+
+\\séparation exacte (yes/no)
+no
+
+\\Solver: choose in this list ["GLPK", "Cbc", "Mosek", "CPLEX", "Gurobi", "SCIP"]
+CPLEX
+
+\\Affichage du log de la résolution (yes/no)
+yes
+
+\\Time limit (.seconds)
+18000
