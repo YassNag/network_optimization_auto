@@ -1,0 +1,294 @@
+========== Documentation ==========
+
+ --> Nombre d'états : 1
+
+ --> Nombre de HAPS : 4
+
+ --> Nombre de positions envisageables pour le déploiement d'un HAPS : 36 (quadrillage, pas : 200)
+
+ --> Nombre de types de communication : 4
+
+ --> Nombre d'unités : 10
+
+ --> Nombre de bases : 1
+
+ --> Altitude de déploiement des HAPS : 20
+
+ --> Nombre de relais de type 1 : 3
+
+ --> Nombre de relais de type 2 : 3
+
+ --> Nombre de relais de type 3 : 3
+
+ --> Nombre de relais de type 4 : 3
+
+ --> Types de communication de l'unité 1 : 3, 1, 2, 4
+
+ --> Types de communication de l'unité 2 : 2
+
+ --> Types de communication de l'unité 3 : 1, 2, 4
+
+ --> Types de communication de l'unité 4 : 2, 1
+
+ --> Types de communication de l'unité 5 : 1, 4
+
+ --> Types de communication de l'unité 6 : 1, 2, 4
+
+ --> Types de communication de l'unité 7 : 1, 3
+
+ --> Types de communication de l'unité 8 : 1, 2, 3, 4
+
+ --> Types de communication de l'unité 9 : 2, 1
+
+ --> Types de communication de l'unité 10 : 3, 4, 1, 2
+      --> Portée unité (seuil) : 136134100113
+      --> Portée unité (seuil) : 117
+      --> Portée unité (seuil) : 8984139
+      --> Portée unité (seuil) : 141106
+      --> Portée unité (seuil) : 12488
+      --> Portée unité (seuil) : 9413491
+      --> Portée unité (seuil) : 82134
+      --> Portée unité (seuil) : 13111013898
+      --> Portée unité (seuil) : 115124
+      --> Portée unité (seuil) : 11714688102
+
+ - Base 1 : 
+   --> Nombre de types de communication : 
+      --> Type 1 : 1
+      --> Type 2 : 2
+      --> Type 3 : 3
+      --> Type 4 : 4
+
+ - Base 1 : 
+   --> x : 300
+   --> y : 400
+
+ - Position 1 : 
+   --> x : 0
+   --> y : 0
+
+ - Position 2 : 
+   --> x : 200
+   --> y : 0
+
+ - Position 3 : 
+   --> x : 400
+   --> y : 0
+
+ - Position 4 : 
+   --> x : 600
+   --> y : 0
+
+ - Position 5 : 
+   --> x : 800
+   --> y : 0
+
+ - Position 6 : 
+   --> x : 1000
+   --> y : 0
+
+ - Position 7 : 
+   --> x : 0
+   --> y : 200
+
+ - Position 8 : 
+   --> x : 200
+   --> y : 200
+
+ - Position 9 : 
+   --> x : 400
+   --> y : 200
+
+ - Position 10 : 
+   --> x : 600
+   --> y : 200
+
+ - Position 11 : 
+   --> x : 800
+   --> y : 200
+
+ - Position 12 : 
+   --> x : 1000
+   --> y : 200
+
+ - Position 13 : 
+   --> x : 0
+   --> y : 400
+
+ - Position 14 : 
+   --> x : 200
+   --> y : 400
+
+ - Position 15 : 
+   --> x : 400
+   --> y : 400
+
+ - Position 16 : 
+   --> x : 600
+   --> y : 400
+
+ - Position 17 : 
+   --> x : 800
+   --> y : 400
+
+ - Position 18 : 
+   --> x : 1000
+   --> y : 400
+
+ - Position 19 : 
+   --> x : 0
+   --> y : 600
+
+ - Position 20 : 
+   --> x : 200
+   --> y : 600
+
+ - Position 21 : 
+   --> x : 400
+   --> y : 600
+
+ - Position 22 : 
+   --> x : 600
+   --> y : 600
+
+ - Position 23 : 
+   --> x : 800
+   --> y : 600
+
+ - Position 24 : 
+   --> x : 1000
+   --> y : 600
+
+ - Position 25 : 
+   --> x : 0
+   --> y : 800
+
+ - Position 26 : 
+   --> x : 200
+   --> y : 800
+
+ - Position 27 : 
+   --> x : 400
+   --> y : 800
+
+ - Position 28 : 
+   --> x : 600
+   --> y : 800
+
+ - Position 29 : 
+   --> x : 800
+   --> y : 800
+
+ - Position 30 : 
+   --> x : 1000
+   --> y : 800
+
+ - Position 31 : 
+   --> x : 0
+   --> y : 1000
+
+ - Position 32 : 
+   --> x : 200
+   --> y : 1000
+
+ - Position 33 : 
+   --> x : 400
+   --> y : 1000
+
+ - Position 34 : 
+   --> x : 600
+   --> y : 1000
+
+ - Position 35 : 
+   --> x : 800
+   --> y : 1000
+
+ - Position 36 : 
+   --> x : 1000
+   --> y : 1000
+
+ - HAPS 1 : 
+   --> Poids maximal : 228
+   --> Puissance maximale : 545
+
+ - HAPS 2 : 
+   --> Poids maximal : 288
+   --> Puissance maximale : 366
+
+ - HAPS 3 : 
+   --> Poids maximal : 544
+   --> Puissance maximale : 352
+
+ - HAPS 4 : 
+   --> Poids maximal : 693
+   --> Puissance maximale : 437
+
+ - Relais de type 1
+
+   - Relais 1 : 
+      --> Poids : 343
+      --> Puissance : 342
+      --> Portée (seuil) : 204
+
+   - Relais 2 : 
+      --> Poids : 252
+      --> Puissance : 236
+      --> Portée (seuil) : 208
+
+   - Relais 3 : 
+      --> Poids : 176
+      --> Puissance : 345
+      --> Portée (seuil) : 209
+
+ - Relais de type 2
+
+   - Relais 4 : 
+      --> Poids : 213
+      --> Puissance : 306
+      --> Portée (seuil) : 215
+
+   - Relais 5 : 
+      --> Poids : 211
+      --> Puissance : 345
+      --> Portée (seuil) : 237
+
+   - Relais 6 : 
+      --> Poids : 264
+      --> Puissance : 220
+      --> Portée (seuil) : 175
+
+ - Relais de type 3
+
+   - Relais 7 : 
+      --> Poids : 280
+      --> Puissance : 232
+      --> Portée (seuil) : 216
+
+   - Relais 8 : 
+      --> Poids : 302
+      --> Puissance : 172
+      --> Portée (seuil) : 243
+
+   - Relais 9 : 
+      --> Poids : 340
+      --> Puissance : 169
+      --> Portée (seuil) : 246
+
+ - Relais de type 4
+
+   - Relais 10 : 
+      --> Poids : 225
+      --> Puissance : 293
+      --> Portée (seuil) : 209
+
+   - Relais 11 : 
+      --> Poids : 234
+      --> Puissance : 169
+      --> Portée (seuil) : 152
+
+   - Relais 12 : 
+      --> Poids : 325
+      --> Puissance : 172
+      --> Portée (seuil) : 228
+
+========== Documentation ==========

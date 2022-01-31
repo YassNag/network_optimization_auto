@@ -1,0 +1,94 @@
+// Nombre d'états (#T), de HAPS (#H), de positions envisageables pour le déploiement (#E) de types de communication (#C), d'unités (#U) et de bases (#B)
+1, 4, 36, 1, 10, 1
+
+// Altitude de déploiement des HAPS (A)
+20
+
+// Nombre de relais par type de communication (R_1, R_2, ...)
+10
+
+// Types de communication de chaque unité (C_u)
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+// Portée de chaque unité par type de communication (P_u)
+125
+149
+159
+173
+189
+172
+198
+144
+117
+133
+
+// Types de communication de chaque base (C_b)
+1
+
+// Positions des bases (x_b, y_b)
+200, 300
+
+// Positions envisageables pour le déploiement d'un HAPS (x_e, y_e)
+0, 0
+200, 0
+400, 0
+600, 0
+800, 0
+1000, 0
+0, 200
+200, 200
+400, 200
+600, 200
+800, 200
+1000, 200
+0, 400
+200, 400
+400, 400
+600, 400
+800, 400
+1000, 400
+0, 600
+200, 600
+400, 600
+600, 600
+800, 600
+1000, 600
+0, 800
+200, 800
+400, 800
+600, 800
+800, 800
+1000, 800
+0, 1000
+200, 1000
+400, 1000
+600, 1000
+800, 1000
+1000, 1000
+
+// Poids et puissance maximale de chacun des HAPS (W_h, P_h)
+714, 917
+574, 873
+637, 565
+761, 977
+
+// Poids, puissance et portée de chacun des relais de type 1 (w_r, p_r, s_r)
+143, 280, 209
+157, 131, 160
+326, 118, 176
+355, 383, 245
+349, 161, 160
+134, 227, 207
+151, 196, 212
+279, 154, 249
+317, 176, 193
+245, 112, 169
